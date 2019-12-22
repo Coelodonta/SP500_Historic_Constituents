@@ -4,6 +4,8 @@ File with a Python variable containing the historic constituent ticker symbols f
 
 The variable is a list of lists. The format is:
 
+```
 sp500_tickers=[[<last known valid date>,<ticker>,<ticker>,...],[<last known valid date>,<ticker>,<ticker>,...]]
+```
 
 
